@@ -1,8 +1,8 @@
 # CS-360 Mobile Architecture & Programming
-<hr>
 
 ## Project Reflection
-<hr>
+<br>
+<br>
 
 <ins>**Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?**</ins>
 
