@@ -16,7 +16,7 @@ The user needs for accountability, progress-tracking, and clarity are all addres
 To support user needs, the app includes a login and account creation screen, a goal weight setup screen, a daily weight entry screen, a weight history screen, and an SMS permission screen. Each screen was designed with a clear, singular purpose to reduce cognitive load. 
 - User flows were carefully structured so new users are guided through goal setup before entering daily data, while returning users are immediately navigated to the daily entry screen to log their weight. 
 - After adding weight data, users are presented with their weight history where they can view and edit previous entries, or navigate back to the weight entry screen to add a new record. 
-- If users would like to change their goal, they can access the goal setup screen again from the weight entry screen, before adding a new weight. 
+- If users would like to change their goal, they can access the goal setup screen again from the weight entry screen, before adding a new record. 
 - The goal setup screen also contains a toggle for SMS notifications which, when enabled, prompts the user with the option to allow the permissions if they would like to take advantage of the feature.
   - I chose a toggle to initiate the SMS permission screen rather than an automatic pop-up to avoid an obtrusive experience, while still promoting user-choice with a simple way to enable/disable the feature.
 
