@@ -1,6 +1,8 @@
 # CS-360 Mobile Architecture & Programming
+<hr>
 
 ## Project Reflection
+<hr>
 
 <ins>**Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?**</ins>
 
@@ -15,7 +17,8 @@ To support user needs, the app includes a login and account creation screen, a g
 - User flows were carefully structured so new users are guided through goal setup before entering daily data, while returning users are immediately navigated to the daily entry screen to log their weight. 
 - After adding weight data, users are presented with their weight history where they can view and edit previous entries, or navigate back to the weight entry screen to add a new record. 
 - If users would like to change their goal, they can access the goal setup screen again from the weight entry screen, before adding a new weight. 
-- The goal setup screen also contains a toggle for SMS notifications which, when enabled, prompts the user with the option to allow the permissions if they would like to take advantage of the feature. I chose a toggle to initiate the SMS permission screen rather than an automatic pop-up to avoid an obtrusive experience, while still promoting user-choice with a simple way to enable/disable the feature.
+- The goal setup screen also contains a toggle for SMS notifications which, when enabled, prompts the user with the option to allow the permissions if they would like to take advantage of the feature.
+  - I chose a toggle to initiate the SMS permission screen rather than an automatic pop-up to avoid an obtrusive experience, while still promoting user-choice with a simple way to enable/disable the feature.
 
 The UI design prioritizes readability, consistency, and accessibility. Inputs are clearly labeled, primary actions are visually emphasized, and secondary actions (logout and notification preferences) are present but unobtrusive. Careful attention was paid to color contrast and text sizing, as well as optimization for light/dark themes and portrait/landscape orientations to appeal to all users. These design choices align visual hierarchy with user intent and reduce friction when performing common tasks.
 <hr>
@@ -43,3 +46,4 @@ Another challenge was managing feature scope while maintaining deadlines. Balanc
 
 <ins>**In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?**</ins>
 
+The database design and weight-tracking logic best demonstrate my skills and understanding. Implementing user-specific data storage, editable entries, and goal-aware notification logic required integrating SQL queries, Android lifecycle management, and conditional business logic. This component reflects a strong grasp of data-driven mobile development and highlights my ability to design systems that are both functional and adaptable to changing user requirements.
