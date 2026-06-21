@@ -5,9 +5,13 @@ This repository has been archived and frozen. It represents the original
 functional state of my CS-360 final project, *Weight Tracker*, I created in December 2025. 
 
 To view the enhanced, secure, and refactored capstone version of this application, 
-please visit my CS-499 repository: [CS-499-Computer-Science-Capstone](https://github.com/Aleks-III/CS-499-Computer-Science-Capstone)
+please visit my CS-499 repository: 
+<br>
+[CS-499-Computer-Science-Capstone](https://github.com/Aleks-III/CS-499-Computer-Science-Capstone)
 
-To learn more about my enhancement project, please visit my GitHub Pages ePortfolio: [Aleks-III.github.io](https://aleks-iii.github.io)
+To learn more about my enhancement project, please visit my GitHub Pages ePortfolio: 
+<br>
+[Aleks-III.github.io](https://aleks-iii.github.io)
 
 <hr>
 
