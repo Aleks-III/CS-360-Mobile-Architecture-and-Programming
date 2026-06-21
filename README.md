@@ -1,11 +1,12 @@
-# Weight Tracker - Original Milestone (Dec 2025)
+# CS-360 Mobile Architecture & Programming
+
 **Notice:** This repository has been archived and frozen. It represents the original 
-functional state of my CS-360 Mobile Architecture final project. 
+functional state of my CS-360 final project, **Weight Tracker**, created in December 2025. 
 
 To view the enhanced, secure, and refactored capstone version of this application, 
 please visit my live ePortfolio at [Aleks-III.github.io](https://github.io).
 
-# CS-360 Mobile Architecture & Programming
+<hr>
 
 ## Project Reflection
 <br>
